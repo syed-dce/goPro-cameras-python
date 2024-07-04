@@ -6,7 +6,7 @@ from urllib2 import urlopen
 #import cv2
 from time import sleep
 
-# Global variable. I know... I'm a bad programmer.
+# Global variable. 
 # After importing this module, you should do: goPro.password = "your real password"
 password = "goprohero"
 
